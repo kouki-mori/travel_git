@@ -1,0 +1,43 @@
+.detail-body {
+    width: 100%;
+}
+
+
+.detail-body section {
+    width: 70%;
+    margin: auto;
+}
+
+.detail-body h2 {
+    margin-top: 25px;
+    border-left: 7px solid;
+    padding-left: 10px;
+}
+
+#detail-info {
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 1px solid #C0C0C0;
+    text-align: center;
+}
+
+.p-i-list {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+    padding: 30px 30px;
+}
+
+.detail-body label {
+    width: 20%;
+}
+
+.list-p {
+    width: 80%;
+    text-align: left;
+    padding-left: 50px;
+}
